@@ -1,2 +1,5 @@
-# march_git
-this is tutorial git repo for march batch internsala.
+# Project tittle
+Array in c.
+
+# Features
+store numbers in an array
